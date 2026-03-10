@@ -49,7 +49,7 @@ Working on this project really solidified my understanding of CSS Flexbox and la
 Here are a few CSS snippets I am proud of from this project:
 
 **1. Perfectly centering the main card on the screen:**
-I learned that using `min-height: 100vh` on the body along with Flexbox is the most robust way to center content vertically and horizontally.
+I learned that using `min-height: 100vh` on the body along with Flexbox is the most robust way to center content vertically and horizontallyl, and much more new interesting and useful things. 
 
 ```css
 body {
