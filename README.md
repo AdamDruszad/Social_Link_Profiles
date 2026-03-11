@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/AdamDruszad/Social_Link_Profiles
-- Live Site URL: [Add your GitHub Pages live URL here]
+- Live Site URL: https://adamdruszad.github.io/Social_Link_Profiles/#
 
 ## My process
 
